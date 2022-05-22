@@ -1,0 +1,65 @@
+.warna1{
+    background-color: #876445;
+}
+
+.warna2{
+    background-color: #CA965C;
+}
+
+.warna3{
+    background-color: #EEC373;
+}
+
+.warna4{
+    background-color: #F4DFBA;
+}
+
+.no-decoration{
+    text-decoration: none;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.png');
+    background-size: cover;
+}
+
+.highlight{
+    height: 250px;
+}
+
+.kategori-sepatu{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/air-jordan.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sweater{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/sweaters.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-jamTangan{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/jam-tangan.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.img-box{
+    height: 350px;
+}
+
+span p {
+    font-size: smaller;
+}
+
+label {
+    font-size: smaller;
+}
+
+.banner-produk {
+    height: 50vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.png');
+    background-size: cover;
+}
